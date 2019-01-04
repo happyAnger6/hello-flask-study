@@ -1,0 +1,7 @@
+*.pyc
+env/
+__pycache__/
+my-app/**/e2e
+node_modules/*
+e2e/*
+.idea/
